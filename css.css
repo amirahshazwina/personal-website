@@ -1,0 +1,56 @@
+body
+{
+	background-image: url(IMAGE/pngwing.com4.png);
+	background-color: #5f7daf;
+	font-family: Courier New;
+	text-align: center;
+}
+table,td,tr
+{
+	padding: 5px;
+	text-align: center;
+	border: 1px solid;
+	border-collapse: collapse;
+	border-style: hidden;
+	background-color: #afafc7;
+	margin: auto;
+}
+
+h1
+{
+	font-family: Courier New;
+	color: black;
+	background-color:#F7DFD3 ;
+	text-align: center;
+}
+
+h3
+{
+	background-color: #ffc7c9;
+
+}
+
+P
+{
+	font-family: Courier New;
+	color: BLACK;
+	background-color: #E2C3C8;
+	line-height: 1.5;
+
+}
+a:link
+{
+	color: maroon;
+	text-decoration: none;
+}
+a:hover
+{
+	background-color:#E2C3C8 ;
+	text-decoration: none;
+	color: maroon;
+}
+a:visited
+{
+	text-decoration: none;
+	color: floralwhite;
+}
